@@ -12,3 +12,5 @@ commit second
 
 test
 
+update README
+
